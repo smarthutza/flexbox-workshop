@@ -23,4 +23,4 @@
 - Now you have the six faces of a die. Using Flexbox, please place all the dots in the right place. This is what you should end up with: ![Die Faces](faces.PNG)
 
 
-#### :heart: Massive THANK YOU to all the creators of the resources listed above! :heart:
+#### :heart:   Massive THANK YOU to all the creators of the resources listed above!   :heart:
