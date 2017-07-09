@@ -1,4 +1,4 @@
-/* OTHER STYLES */
+/* MAIN STYLES */
 
 * {
   box-sizing: border-box;
@@ -9,19 +9,12 @@ html, body {
 }
 
 body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  vertical-align: center;
-  flex-wrap: wrap;
-  align-content: center;
   font-family: 'Open Sans', sans-serif;
-
   background: linear-gradient(top, #222, #333);
+  /*Add some your code here.*/
 }
 
 /*The [attribute$=value] selector matches every element whose attribute value ends with a specified value.*/
-
 [class$="face"] {
   margin: 16px;
   padding: 4px;
@@ -50,3 +43,6 @@ body {
   background-color: #333;
   box-shadow: inset 0 3px #111, inset 0 -3px #555;
 }
+
+
+/*Add your solution here. Bear in mind you have to add something in the body above as well.*/

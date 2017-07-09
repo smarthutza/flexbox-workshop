@@ -19,8 +19,8 @@
 ---
 
 ### Workshop
-- Clone this repo:
-- Using flexbox, make the page look like this:
+- Clone this repo: https://github.com/smarthutza/flexbox-workshop
+- Now you have the six faces of a die. Using Flexbox, please place all the dots in the right place. This is what you should end up with: ![Die Faces](faces.PNG)
 
 
 #### :heart: Massive THANK YOU to all the creators of the resources listed above! :heart:
