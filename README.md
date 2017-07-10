@@ -24,6 +24,7 @@
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
 
+---
 
 #### :heart:   Massive THANK YOU to all the creators of the resources listed above!   :heart:
 
