@@ -9,10 +9,10 @@
 ### Before diving into this workshop, please make sure you go through these resources:
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Practise Flexbox with Froggy](http://flexboxfroggy.com/)
-- [Solved by Flexbox ](https://philipwalton.github.io/solved-by-flexbox/)
-- [Flexbugs](https://github.com/philipwalton/flexbugs)
 
 ### Further Readings :boom: Knowledge is power :boom:
+- [Solved by Flexbox ](https://philipwalton.github.io/solved-by-flexbox/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
 
