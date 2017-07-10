@@ -1,3 +1,8 @@
+/* INSTRUCTIONS:
+First, apply rules to the body tag to set the elements in a row.
+Solve each dice seperately and then move onto the next.
+ */
+
 /* MAIN STYLES */
 
 * {
@@ -7,6 +12,7 @@
 html, body {
   height: 100%;
 }
+
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -44,5 +50,3 @@ body {
   box-shadow: inset 0 3px #111, inset 0 -3px #555;
 }
 
-
-/*Add your solution here. Bear in mind you have to add something in the body above as well.*/
