@@ -10,6 +10,8 @@
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Practise Flexbox with Froggy](http://flexboxfroggy.com/)
 
+Allow 45 minutes for these and one hour for the workshop below. 
+
 ---
 
 ### Workshop
