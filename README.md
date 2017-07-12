@@ -6,22 +6,25 @@
 
 ---
 
-### Before diving into this workshop, please make sure you go through these resources:
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Practise Flexbox with Froggy](http://flexboxfroggy.com/)
-- [Solved by Flexbox ](https://philipwalton.github.io/solved-by-flexbox/)
-- [Flexbugs](https://github.com/philipwalton/flexbugs)
-
-### Further Readings :boom: Knowledge is power :boom:
-- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
+### Workshop
+- Clone this repo: https://github.com/smarthutza/flexbox-workshop
+- Now you have the six faces of a die. Using Flexbox, please place all the dots in the right place. 
+- First, apply rules to the body tag to set the elements in a row.
+- Solve each dice seperately and then move onto the next.
+- This is what you should end up with: ![Die Faces](faces.PNG)
 
 ---
 
-### Workshop
-- Clone this repo: https://github.com/smarthutza/flexbox-workshop
-- Now you have the six faces of a die. Using Flexbox, please place all the dots in the right place. This is what you should end up with: ![Die Faces](faces.PNG)
+### Further Readings :boom: Knowledge is power :boom:
+- [Solved by Flexbox ](https://philipwalton.github.io/solved-by-flexbox/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
+- [Practise Flexbox with Froggy](http://flexboxfroggy.com/)
+- [Learn CSS selectors by playing CSS Diner](https://flukeout.github.io/)
 
+---
 
 #### :heart:   Massive THANK YOU to all the creators of the resources listed above!   :heart:
 
