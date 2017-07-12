@@ -16,11 +16,11 @@
 ---
 
 ### Further Readings :boom: Knowledge is power :boom:
-- [Solved by Flexbox ](https://philipwalton.github.io/solved-by-flexbox/)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Solved by flexbox ](https://philipwalton.github.io/solved-by-flexbox/)
+- [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbugs](https://github.com/philipwalton/flexbugs)
 - [A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
-- [Practise Flexbox with Froggy](http://flexboxfroggy.com/)
+- [Practise flexbox with Froggy](http://flexboxfroggy.com/)
 - [Learn CSS selectors by playing CSS Diner](https://flukeout.github.io/)
 
 ---
